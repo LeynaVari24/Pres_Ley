@@ -24,18 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am Leyna Varinia Pacheco Quisbert, a woman passionate about technology and education. I love learning new things and sharing my knowledge with others. I have a great ability to explain complex concepts in a simple and accessible way.";
+  "I am a proactive person and I like to challenge myself with new challenges. I enjoy working on projects that have a positive impact on society. I consider myself a creative and innovative woman, always looking for new ways of doing things.";
+  
+  "I am a mother and I am concerned about the future of new generations. That is why I am dedicated to empowering women through education and technology. I believe that women have the potential to change the world and I am committed to helping them reach their full potential.";"
+  
+  "In short, I am an enthusiastic, creative and committed person. I am passionate about learning, sharing and helping others. I believe that education and technology are powerful tools to transform lives and I am determined to use them to make the world a better place.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "Web Development",
+  "Generative Artificial Intelligence",
+  "Databases",
+  "Agile",
   "Graphic design",
 ];
 
